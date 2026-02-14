@@ -1,4 +1,0 @@
-aiogram==3.3.0
-groq==0.4.2
-flask
-gunicorn
